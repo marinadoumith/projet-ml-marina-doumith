@@ -14,7 +14,7 @@ predict(df)   # df sans la colonne 'attaque' -> liste de 0/1
 
 ## Résultats
 
-**Nom / Prénom :** NOM Prénom
+**Nom / Prénom :** MARINA DOUMITH
 
 Évaluation sur un jeu de validation (25 % des données, stratifié, 750 flux dont 208 attaques). La dernière colonne est le F1 moyen en validation croisée à 5 plis sur les 3000 flux.
 
